@@ -24,7 +24,8 @@ Analyze public sentiment from social media data to understand user opinions and 
 - Negative sentiment is comparatively lower but consistent.
 - Sentiment trends vary across platforms and regions.
 
----
+### Dashboard Screenshot
+(dashboard03.png)
 
 ### 👤 Author
 **Sahara M**  
